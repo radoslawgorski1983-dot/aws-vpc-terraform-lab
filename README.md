@@ -27,5 +27,4 @@ terraform apply
 - Add Direct Connect Gateway
 - Automate with Ansible + Python (netmiko)
 
-## Linked to CV
-See my CV: EVPN/VXLAN Spine-Leaf diagram + this code = full story: from on-prem fabric to hybrid cloud.
+
